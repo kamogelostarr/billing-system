@@ -8,17 +8,14 @@ body {
     margin: 0;
 }
 
-.container {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    width: 300px;
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-
-form {
-    display: flex;
-    flex-direction: column;
+.form-group{
+    margin-bottom:30px;
 }
 
 label {
