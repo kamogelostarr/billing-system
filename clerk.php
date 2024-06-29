@@ -13,7 +13,7 @@ $user = $_SESSION['user_id'];
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <title>Clerk Panel</title>
+    <title>Clerk</title>
 </head>
 <body>
     <h1>Clerk Panel</h1>
